@@ -1,8 +1,9 @@
 
 .header{
-	height:170px;
 	background-image:url('images/headerbackground.png');
 	position: relative;
+	padding-top: 40px;
+	padding-bottom: 90px;
 }
 	.wrapper{
 		width:960px;
@@ -43,7 +44,7 @@ border-radius:5px;
 background-image:url('images/menubar.png');
 background-repeat: repeat-x;
 position:absolute;
-top:120px;
+top:18i 0px;
 font-size: 0;
 border: 2px solid #f1af00; 
 box-shadow: 0 -2px 8px -1px #bf6b00, 0 4px 0 0 #bf6b00;
@@ -216,7 +217,7 @@ height: 68px;
 
 .footer{
 	background-color:#141010;
-	height: 131px;
+	padding:50px 0;
 }
 	.footer p,
 	.footer ul{
@@ -238,7 +239,5 @@ height: 68px;
 		display: inline-block;
 		line-height: 24px;
 	}
-	.contentfooter {
-		padding-top: 50px;
-	}
+	
 
