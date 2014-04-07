@@ -2,7 +2,6 @@
 .header{
 	background-image:url('images/headerbackground.png');
 	position: relative;
-	padding-top: 40px;
 	padding-bottom: 90px;
 }
 	.wrapper{
@@ -44,7 +43,7 @@ border-radius:5px;
 background-image:url('images/menubar.png');
 background-repeat: repeat-x;
 position:absolute;
-top:180px;
+top:140px;
 font-size: 0;
 border: 2px solid #f1af00; 
 box-shadow: 0 -2px 8px -1px #bf6b00, 0 4px 0 0 #bf6b00;
