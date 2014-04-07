@@ -7,31 +7,8 @@
 	<title>homepage</title>
 </head>
 <body>
-	<div>
-		<div class="header">
-			<div class="wrapper clearfix">
-				<img class="logo" src="images/logo.png"/>
-				<p>Clients choose us!</p>
-				<ul>
-					<li><a href="https://twitter.com/"><img src="images/icotwitter.png"/></a></li>
-					<li><a href="https://www.facebook.com/"><img src="images/icofacebook.png"/></a></li>
-					<li><a href="https://www.google.com/+/learnmore/"><img src="images/icoplus.png"/></a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="wrapper">
-			<div class="menubar">
-				<ul>
-					<li><a href="">About</a></li>
-					<li><a href="">Services</a></li>
-					<li><a href="">Products</a></li>
-					<li><a href="">Employment</a></li>
-					<li><a href="">FAQ</a></li>
-					<li><a href="">Contacts</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>	
+	<?php require ('includes/header.php'); ?>
+	
 	<div class="topcontent">
 		<div class="wrapper">
 			<ul class="images">
@@ -127,16 +104,7 @@
 		</div>
 	</div>
 
-	<div class="footer">
-		<div class="contentfooter">
-			<p>&copy 2012 <span>Security Group Website Template</span> by TemplateMonster.com</p>
-			<ul>
-				<li><p>Phone: +1 800 559 6580</p></li>  
-				<li><p>Email:</p></li>
-				<li><a href="mailto:info@internetcafe.com"> info@internetcafe.com</a></li>
-			</ul>
-		</div>
-	</div>
+	<? php require('includes/footer.php'); ?>
 </body>
 </html>
 
