@@ -9,7 +9,8 @@
 </head>
 <body>
 	<?php require ('includes/header.php'); ?>
-	
+	<div class="topcontent">
+	</div>
 	<div class="textemployment">
 		<div class="top">
 			<div class="wrapper clearfix">
