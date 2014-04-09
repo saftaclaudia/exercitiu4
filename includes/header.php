@@ -14,7 +14,7 @@
 			<div class="menubar">
 				<ul>
 					<li><a href="homepage.php">About</a></li>
-					<li><a href="">Services</a></li>
+					<li><a href="services.php">Services</a></li>
 					<li><a href="">Products</a></li>
 					<li><a href="employment.php">Employment</a></li>
 					<li><a href="">FAQ</a></li>
