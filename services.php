@@ -11,7 +11,7 @@
 <body>
 	<?php require ('includes/header.php'); ?>
 
-	<div class="topcontent"></div>
+	<div class="topbar"></div>
 		<div class="servicescontent clearfix">
 			<div class="wrapper">
 			<div class="left content">

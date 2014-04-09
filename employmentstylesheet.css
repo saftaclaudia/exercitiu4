@@ -1,5 +1,7 @@
-.topcontent{
+.topbar{
 	height:65px;
+	background-image: url('images/contentbackground.png');
+	box-shadow: inset 2px -4px 10px #000000;
 }
 .textemployment{
 	padding-top: 60px;
