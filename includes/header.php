@@ -15,10 +15,10 @@
 				<ul>
 					<li><a href="homepage.php">About</a></li>
 					<li><a href="services.php">Services</a></li>
-					<li><a href="">Products</a></li>
+					<li><a href="products.php">Products</a></li>
 					<li><a href="employment.php">Employment</a></li>
-					<li><a href="">FAQ</a></li>
-					<li><a href="">Contacts</a></li>
+					<li><a href="faq.php">FAQ</a></li>
+					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
 		</div>

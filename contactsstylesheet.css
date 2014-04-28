@@ -1,0 +1,96 @@
+
+.contact{
+	background-color:#edeef0;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	color:#8f8b8c;
+}
+.contact h2{
+font-size: 35px;
+color: #1f1919;
+padding-bottom: 20px;
+}
+.feedback{
+	width: 60%;
+	border-right: 1px solid #ffffff;
+	margin-left: 40px;
+	float: left;
+}
+	.textform{
+		float:left;
+		margin-right: 10px;
+		line-height: 40px;
+	}
+
+	input{
+	    margin-bottom: 5px;
+	    margin-top: 5px;
+	    border-radius: 10px;
+	    background-color: #e1e2e4;
+	    width: 260px;
+	    height: 28px;
+	    border-bottom: 1px solid #ffffff;
+	    border-top:1px solid #aeafb0;
+	    border-left: 1px solid #cfd0d2;
+	    border-right: 1px solid #cfd0d2;
+		}
+
+	textarea{
+		width: 470px;
+		height: 275px;
+		background-color: #e1e2e4;
+		color:#8f8b8c;
+		border-radius: 10px;
+		margin-top: 5px;
+		border-bottom: 1px solid #ffffff;
+		border-top:1px solid #aeafb0;
+	    border-left: 1px solid #cfd0d2;
+	    border-right: 1px solid #cfd0d2;
+		}
+
+	button{
+		border: none;
+		background-color:transparent;
+		float:right;
+		font-family: arial;
+		color: #8f8b8c;
+		font-size: 12px;
+	}
+	.button{
+		margin-right: 60px;
+		margin-top: 10px;
+	}
+	button:hover{
+		color:#e88800;
+	}
+
+.contacts{
+	float:left;
+	width: 25%;
+	padding-left: 40px;
+	border-left: 1px solid #d5d6d8;
+	padding-top: 15px;
+}
+	.contacts p{
+		line-height: 24px;
+		font-family: arial;
+		font-size: 
+	}
+	.contacts img{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	}
+	.contacts span{
+		padding-left: 10px;
+	}
+	.contacts .padding{
+		padding-left: 40px;
+	}
+
+	 .email{
+		color:#8f8b8c;
+		padding-left: 27px;
+	}
+	.contacts a:hover{
+		color:#e88800;
+	}

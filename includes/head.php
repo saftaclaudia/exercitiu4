@@ -3,4 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="homepagestylesheet.css">
 	<link type="text/css" rel="stylesheet" href="employmentstylesheet.css"/>
 	<link type="text/css" rel="stylesheet" href="servicesstylesheet.css"/>
+	<link type="text/css" rel="stylesheet" href="contactsstylesheet.css"/>
+	<link type="text/css" rel="stylesheet" href="faqstylesheet.css"/>
+	<link type="text/css" rel="stylesheet" href="productsstylesheet.css"/>
 	<title><?php echo $title ?></title>

@@ -2,12 +2,21 @@
 <html>
 <head>
 <?php $title="homepage";
-	require('includes/head.php')
+	require('includes/head.php');
 ?>
 </head>
 <body>
 	<?php require ('includes/header.php'); ?>
-	
+		
+		<!--<input type="text">
+	<textarea></textarea>
+	<select>
+		<option>bla</option>
+	</select>
+	<input type="submit">
+	<button type="submit"></button>
+-->
+
 	<div class="topcontent">
 		<div class="wrapper">
 			<ul class="images">
@@ -103,7 +112,7 @@
 		</div>
 	</div>
 
-	<? php require('includes/footer.php'); ?>
+	<?php require('includes/footer.php'); ?>
 </body>
 </html>
 
