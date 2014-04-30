@@ -1,0 +1,97 @@
+.container{
+	background-color:#edeef0;
+	padding-bottom: 10px;
+}
+.topcontainer{
+	padding-top: 35px;
+	padding-bottom: 50px;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+	.width50{
+		width: 45%;
+		padding-bottom: 10px;
+		padding-top: 60px;
+	}
+
+	.rightborder{
+		border-right: 1px solid #ffffff;
+		padding-right: 20px; 
+	}
+	.leftborder{
+		border-left: 1px solid #d5d6d8;
+		padding-left: 30px;
+	}
+	.width50 img{
+		float:left;
+		padding-right: 30px;
+	}
+	h2{
+		font-family: arial;
+		font-size: 35px;
+		color:#1f1919;	
+	}
+	.topcontainer h2{
+		margin-bottom: -40px;
+	}
+	.width50 span {
+		padding-bottom: 10px; 
+	}
+	.width50 p, 
+	.width50 span{
+		float:left;
+		width: 44%;
+	}
+.bottomcontainer{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.bottomcontainer h2{
+	padding-bottom: 20px;
+	line-height: normal;
+}
+.product1, .product2, .product3, .product4 {
+	float left;
+	width: 50%;
+}
+.product1, .product2{
+	padding-bottom: 20px;
+}
+.product3, .product4{
+	padding-top:20px;
+}
+
+.bottomcontainer img{
+	float: left;
+	padding-right: 30px;
+}
+
+.bottomcontainer p{
+	padding-top: 5px;
+}
+	.width60{
+		width: 63%;
+		float: left;
+		border-right:1px solid #ffffff;
+		padding-bottom: 10px;
+
+	}
+
+	.width40{
+		width:32%;
+		float: left;
+		border-left: 1px solid #d5d6d8;
+		padding-left: 40px;
+		padding-bottom: 12px;
+	}
+
+
+	.arow li{
+		background-image: url('images/sageata.png');
+		background-repeat: no-repeat;
+		padding-left: 10px;
+		background-position: left;
+		line-height: 29px
+	}
+

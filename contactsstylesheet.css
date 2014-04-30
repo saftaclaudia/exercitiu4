@@ -34,7 +34,9 @@ padding-bottom: 20px;
 	    border-left: 1px solid #cfd0d2;
 	    border-right: 1px solid #cfd0d2;
 		}
-
+	input:focus{
+		border:none;
+	}
 	textarea{
 		width: 470px;
 		height: 275px;

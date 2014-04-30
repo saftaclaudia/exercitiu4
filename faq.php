@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php $title="contacts";
+<?php $title="faq";
 	require('includes/head.php');
 ?>
 </head>
