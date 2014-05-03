@@ -75,9 +75,7 @@
 		float: left;
 		border-right:1px solid #ffffff;
 		padding-bottom: 10px;
-
 	}
-
 	.width40{
 		width:32%;
 		float: left;
@@ -85,8 +83,6 @@
 		padding-left: 40px;
 		padding-bottom: 12px;
 	}
-
-
 	.arow li{
 		background-image: url('images/sageata.png');
 		background-repeat: no-repeat;

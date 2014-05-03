@@ -21,7 +21,7 @@
 				</div>
 				<div class="right content"> 
 						<h2>Everyday Heroes</h2>
-						<span> &quot; ...lorem ipsum dolor samet consetetur sadipscing diam nonumy eirmod tempor invidunt labre dolore magna aliquyam erat, sed diam voluptua... &quot; </span>
+						<blockqoute> &quot; ...lorem ipsum dolor samet consetetur sadipscing diam nonumy eirmod tempor invidunt labre dolore magna aliquyam erat, sed diam voluptua... &quot; </blockqoute>
 						<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
 						<a href="">Read More</a>
 				</div>
@@ -32,7 +32,7 @@
 				<div class="left content">
 					<h2>Who We Recruit</h2>
 					<p>Linvidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.</p>
-					<span>&quot;..lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum...&quot; </span>
+					<blockqoute>&quot;..lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum...&quot; </blockqoute>
 					<p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum stet clita kasd gub.</p>
 				</div>
 				<div class="right content">
