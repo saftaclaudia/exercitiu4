@@ -57,7 +57,7 @@
 				<a href="#">Read More</a>		
 			</div>
 			<div class="central content">
-				<p>Security Group is one of <span> free website templates</span> created by Template Monster.com. This website template is optimized for 1280X1024 screen resolution. This <span>Security Group Template </span>goes with 2 packages &minus; with PSD source files and without them. PSD source files are available for free for the registered members of TemplateMonster.com. </p>
+				<p>Security Group is one of <span class="orange"> free website templates</span> created by Template Monster.com. This website template is optimized for 1280X1024 screen resolution. This <span>Security Group Template </span>goes with 2 packages &minus; with PSD source files and without them. PSD source files are available for free for the registered members of TemplateMonster.com. </p>
 				<ul class="arrow">
 					<li>At vero eos et accusam et justo duo</li>
 					<li>Dolores et ea rebum. stetasd gubergren</li>
@@ -69,15 +69,15 @@
 				<h1>Latest News</h1>
 				<ul class="news">
 					<li>
-						<span>29.02.2011</span>
+						<span class="orange">29.02.2011</span>
 						<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.</p>
 					</li>
 					<li>
-						<span>27.02.2011</span>
+						<span class="orange">27.02.2011</span>
 						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p>
 					</li>
 					<li>
-						<span>22.02.2011</span>
+						<span classs="orange">22.02.2011</span>
 						<p>Onvidunt ut labore dolore magna aliquym erat, sed diam voluptua vero eos accusam et justo duo dolores.</p>
 					</li>	
 				</ul>
