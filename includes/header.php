@@ -13,7 +13,7 @@
 		<div class="wrapper">
 			<div class="menubar">
 				<ul>
-					<li><a href="homepage.php">About</a></li>
+					<li><a href="index.php">About</a></li>
 					<li><a href="services.php">Services</a></li>
 					<li><a href="products.php">Products</a></li>
 					<li><a href="employment.php">Employment</a></li>
