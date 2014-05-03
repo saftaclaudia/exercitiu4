@@ -179,6 +179,12 @@ height: 68px;
 		.news li:first-child{
 			padding-top: 0px;
 		}
+		.news span{
+			background-image: url('images/cerc.png');
+			background-repeat: no-repeat;
+			background-position: left;
+			padding-left: 15px;
+		}
 		.content h1{
 				font-size: 35px;
 				color:#1f1919;
@@ -197,7 +203,7 @@ height: 68px;
 			box-shadow: inset 0 1px 2px #000000;
 			display: inline-block;
 			margin-top: 20px;
-			margin-bottom: 20px;
+			margin-bottom: 22px;
 		}
 
 		.content a:hover{

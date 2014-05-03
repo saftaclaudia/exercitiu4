@@ -69,17 +69,14 @@
 				<h1>Latest News</h1>
 				<ul class="news">
 					<li>
-						<img src="images/cerc.png"/>
 						<span>29.02.2011</span>
 						<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.</p>
 					</li>
 					<li>
-						<img src="images/cerc.png"/>
 						<span>27.02.2011</span>
 						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p>
 					</li>
 					<li>
-						<img src="images/cerc.png"/>
 						<span>22.02.2011</span>
 						<p>Onvidunt ut labore dolore magna aliquym erat, sed diam voluptua vero eos accusam et justo duo dolores.</p>
 					</li>	
