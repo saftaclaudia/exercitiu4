@@ -50,7 +50,7 @@
 					</div>
 					<div class="content width40">
 						<h2>Poducts List</h2>
-						<ul class="arow">
+						<ul class="arrow">
 							<li>At vero eos et accusam et justo duo </li>
 							<li>Dolores et ea restet clita kasd gubergren</li>
 							<li>Lorem ipsum dolor sit amet</li>
@@ -63,9 +63,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
-
-				
+		</div>		
 	<?php require('includes/footer.php'); ?>
 </body>
 </html>

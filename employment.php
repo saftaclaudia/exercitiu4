@@ -38,11 +38,11 @@
 				<div class="right content">
 					<h2>Careers</h2>
 					<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor amet, consetetur sadip-scing elitr, sed diam nonumy eirmod tempor.<p>
-					<ul>
-						<li><img src="images/sageata.png"/><span>Nvidunt ut labore et dolore magna</spam></li>
-						<li><img src="images/sageata.png"/><span>Aliquyam erat, sed diam voluptua vero eos</span></li>
-						<li><img src="images/sageata.png"/><span>Fccusam et justo duo dolores</span></li>
-						<li><img src="images/sageata.png"><span>Lorem ipsum dolor sit amet sum dolor sit amet</span></li>
+					<ul class="arrow">
+						<li><span>Nvidunt ut labore et dolore magna</spam></li>
+						<li><span>Aliquyam erat, sed diam voluptua vero eos</span></li>
+						<li><span>Fccusam et justo duo dolores</span></li>
+						<li><span>Lorem ipsum dolor sit amet sum dolor sit amet</span></li>
 					</ul>
 					<p>Nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p>
 				</div>

@@ -166,32 +166,25 @@ height: 68px;
 			padding-top: 27px;
 		}
 
-		.central li{
-			padding-bottom: 9px;
-		}
-		.left li{
-			padding-bottom: 9px;
-		}
+	
 		.right{
 				border-left:1px solid #d5d6d8;
 				padding-left: 40px;
 				width: 26%;
 		}	
-		.right li{
-			padding-bottom: 15px;
-		}
 		
-	
+		.news li{
+			padding-top: 15px;
+		}
+		.news li:first-child{
+			padding-top: 0px;
+		}
 		.content h1{
 				font-size: 35px;
 				color:#1f1919;
 				margin-bottom: 30px;
 		}
-		.content .sageata{
-			float:left;
-			margin-top: 7px;
-			margin-right: 5px;
-		}
+	
 		.content span{
 			color:#e88800;
 		}

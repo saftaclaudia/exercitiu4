@@ -11,7 +11,7 @@
 	font-weight: bold;
 
 }
-.servicescontent h4{
+.servicescontent h3{
 	color: #ffffff;
 	background-color:#e88800;
 	padding:5px 20px;	
@@ -19,12 +19,12 @@
 	display: inline-block;
 	font-weight: bold;
 }
-.servicescontent h6{
+.servicescontent h4{
 	color:#1f1919;
 	font-family: arial;
 	font-size: 12px;
 	padding-top: 10px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 	font-weight: bold;
 }
 
@@ -39,24 +39,18 @@ padding-bottom: 5px;
 }
 .servicescontent .right ul{
 	padding-bottom: 10px;
-}
-.servicescontent .right img{
-	float: left;
-	padding-right: 15px;
 	padding-top: 10px;
-
 }
-.servicescontent .right p{
-	padding-right: 5px;
-	display: inline-block;
-
+.servicescontent .right li{
+	line-height: 35px;
 }
 .servicescontent .left a {
 	padding-right: 38px;
 	padding-left: 38px;
+
 }
 .servicescontent .right a{
-	margin-top: 0px;
+	margin-top: 12px;
 }
 .servicescontent a{
 	margin-bottom: 0;

@@ -48,49 +48,26 @@
 			<div class="left content">
 				<h1>Who We Are?</h1>
 				<img src="images/img4.gif"/>
-			<ul>
-				<li>
-					<img class="sageata" src="images/sageata.png"/>
-					<p>Lorem ipsum dolor sit  consetetur </p>
-				</li>
-				<li>
-					<img class="sageata" src="images/sageata.png"/>
-					<p>Sadipscing elitred diam nonumy eirmod
-				</li>
-				<li>
-					<img class="sageata" src="images/sageata.png"/>
-					<p>Tempor invidunt labore dolore magna</p>
-				</li>
-				<li>
-					<img class="sageata" src="images/sageata.png"/>
-					<p>Aliquyam erat, sed diam volupt</p>
-				</li>
+			<ul class="arrow">
+				<li>Lorem ipsum dolor sit  consetetur</li>
+				<li>Sadipscing elitred diam nonumy eirmod</li>
+				<li>Tempor invidunt labore dolore magna</li>
+				<li>Aliquyam erat, sed diam volupt</li>
 			</ul>
 				<a href="#">Read More</a>		
 			</div>
 			<div class="central content">
 				<p>Security Group is one of <span> free website templates</span> created by Template Monster.com. This website template is optimized for 1280X1024 screen resolution. This <span>Security Group Template </span>goes with 2 packages &minus; with PSD source files and without them. PSD source files are available for free for the registered members of TemplateMonster.com. </p>
-				<ul>
-					<li>
-						<img class="sageata" src="images/sageata.png"/>
-						<p>At vero eos et accusam et justo duo</p>
-					</li>
-					<li>
-						<img class="sageata" src="images/sageata.png"/>
-						<p>Dolores et ea rebum. stetasd gubergren </p>
-					</li>
-					<li>	
-						<img class="sageata" src="images/sageata.png"/>
-						<p>Takimata sanctus est lorem</p>
-					<li>
-						<img class="sageata" src="images/sageata.png"/>
-						<p>Psum dolor sit amet orem ipsum </p>
-					</li>
+				<ul class="arrow">
+					<li>At vero eos et accusam et justo duo</li>
+					<li>Dolores et ea rebum. stetasd gubergren</li>
+					<li>Takimata sanctus est lorem</li>
+					<li>Psum dolor sit amet orem ipsum </li>
 				</ul>
 			</div>
 			<div class="right content">
 				<h1>Latest News</h1>
-				<ul>
+				<ul class="news">
 					<li>
 						<img src="images/cerc.png"/>
 						<span>29.02.2011</span>
