@@ -77,7 +77,7 @@
 						<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p>
 					</li>
 					<li>
-						<span classs="orange">22.02.2011</span>
+						<span class="orange">22.02.2011</span>
 						<p>Onvidunt ut labore dolore magna aliquym erat, sed diam voluptua vero eos accusam et justo duo dolores.</p>
 					</li>	
 				</ul>

@@ -54,9 +54,7 @@ padding-bottom: 20px;
 		border: none;
 		background-color:transparent;
 		float:right;
-		font-family: arial;
 		color: #8f8b8c;
-		font-size: 12px;
 	}
 	.button{
 		margin-right: 60px;
@@ -75,8 +73,6 @@ padding-bottom: 20px;
 }
 	.contacts p{
 		line-height: 24px;
-		font-family: arial;
-		font-size: 
 	}
 	.contacts img{
 	padding-top: 20px;
