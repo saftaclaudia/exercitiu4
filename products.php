@@ -11,7 +11,7 @@
 		<div class="container">
 			<div class="wrapper clearfix">
 				<div class="topcontainer clearfix">
-					<h2>Freatured Products</h2>
+					<h2>Featured Products</h2>
 					<div class="content width50  rightborder clearfix">
 						<img src="images/products1.png"/>
 						<span class="orange">Imperdiet doming quod mazim placerat facer possim</span>
@@ -49,15 +49,15 @@
 						</div>
 					</div>
 					<div class="content width40">
-						<h2>Poducts List</h2>
+						<h2>Products List</h2>
 						<ul class="arrow">
 							<li>At vero eos et accusam et justo duo </li>
 							<li>Dolores et ea restet clita kasd gubergren</li>
 							<li>Lorem ipsum dolor sit amet</li>
-							<li><p>Dorem ipsum dolor sit amet onsetetur</p></li>
-							<li><p>Sadipscing elitr, sed diam nonumy </p></li>
-							<li><p>Eirmod tempor invidunt ut labore</p></li>
-							<li><p>Dolore magna aliquyam erat, sed diam</p></li>
+							<li>Dorem ipsum dolor sit amet onsetetur</li>
+							<li>Sadipscing elitr, sed diam nonumy</li>
+							<li>Eirmod tempor invidunt ut labore</li>
+							<li>Dolore magna aliquyam erat, sed diam</li>
 						</ul>
 						<a href="">Read More</a>
 					</div>

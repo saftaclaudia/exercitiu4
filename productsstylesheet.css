@@ -81,12 +81,13 @@
 		border-left: 1px solid #d5d6d8;
 		padding-left: 40px;
 		padding-bottom: 12px;
+		padding-bottom: 45px;
 	}
 	.arrow li{
 		background-image: url('images/sageata.png');
 		background-repeat: no-repeat;
 		padding-left: 10px;
-		background-position: left;
-		line-height: 29px
+		background-position: left 8px;
+		margin-bottom: 5px;
 	}
 
