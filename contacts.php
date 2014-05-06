@@ -10,28 +10,30 @@
 	<div class="topbar"></div>
 	<div class="contact clearfix">
 		<div class="wrapper clearfix">
-			<div class="feedback ">
+			<div class="feedback">
 				<h2>Feedback</h2>
-				<div class="formarea clearfix">			
-					<div class="textform">
-						<p>Name:</p>
-						<p>Email:</p>
-						<p>Phone:</p>
-						<p>Message:</p>
+				<form action="contactsaction.php" method="post">
+					<div class="clearfix">
+						<label for="contact-name">Name:</label>
+						<input type="text" name="name" id="contact-name">
 					</div>
-					<form action="contactsaction.php">
-						<div class="feedbackform">
-							<input type="text">
-							<input type="text">
-							<input type="text">
-							<textarea></textarea>
-						</div>
-						<div class="button">
-							<button type="reset">Clear</button>
-							<button type="submit">Send</button>
-						</div>
-					</form>
-				</div>
+					<div class="clearfix">
+						<label for="contact-emai">Email:</label>
+						<input type="text" name="email" id="contact-email">
+					</div>
+					<div class="clearfix">
+						<label for="contact-phone">Phone:</label>
+						<input type="text" name="phone" id="contact-phone">
+					</div>
+					<div>
+						<label for="message">Message:</label>
+						<textarea type ="text" name="message" id="message"></textarea>
+					</div>
+					<div class="button">
+						<button type="reset">Clear</button>
+						<button type="submit">Send</button>
+					</div>
+				</form>
 			</div>
 			<div class="contacts">
 				<h2>Our Contacts</h2>
