@@ -53,6 +53,9 @@ padding-bottom: 10px;
 	padding-left:40px;
 	margin-top: 40px;
 }
+.bottom .right{
+	padding-bottom: 10px;
+}
 .bottom .left{
 	padding-right: 45px;
 	border-right: 1px solid #ffffff;
