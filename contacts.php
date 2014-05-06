@@ -43,10 +43,15 @@
 				<p>Night Drop Available </p>
 				<img src="images/contacts.png"></img>
 				<p>Demolink.org 8901 Marmora Road,</p>
-				<p> Glasgow, D04 89GR.</p><br>
-				<p>Telephone:<span>+1 959 552 5963;</span></p>
-				<p>FAX: <span class="padding">+1 959 552 5963</span></p>
-				<p>E-mail: <a class="email" href="mailtto:mail@demolink.org">mail@demolink.org</a></p>
+				<p> Glasgow, D04 89GR.</p>
+					<div class="contactmode clearfix">
+						<p>Telephone:</p>
+						<span>+1 959 552 5963;</span>
+						<p>FAX:</p> 
+						<span>+1 959 552 5963</span>
+						<p>E-mail: </p>
+						<a href="mailtto:mail@demolink.org">mail@demolink.org</a>
+					</div>
 			</div>
 		</div>
 	</div>

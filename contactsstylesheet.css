@@ -15,7 +15,7 @@ padding-bottom: 20px;
 	border-right: 1px solid #ffffff;
 	margin-left: 40px;
 	float: left;
-	padding-bottom: 24px;
+	padding-bottom: 20px;
 }
 	.textform{
 		float:left;
@@ -82,16 +82,19 @@ label{
 	padding-top: 20px;
 	padding-bottom: 20px;
 	}
-	.contacts span{
-		padding-left: 10px;
-	}
-	.contacts .padding{
-		padding-left: 40px;
-	}
-
-	 .email{
+.contactmode{
+	padding-top: 10px;
+}
+.contactmode p{
+	width: 80px;
+	float:left;
+}
+.contactmode span,
+.contactmode a{
+	line-height: 24px;
+}
+.contactmode a{
 		color:#8f8b8c;
-		padding-left: 27px;
 	}
 	.contacts a:hover{
 		color:#e88800;
