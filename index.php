@@ -7,15 +7,6 @@
 </head>
 <body>
 	<?php require ('includes/header.php'); ?>
-		
-		<!--<input type="text">
-	<textarea></textarea>
-	<select>
-		<option>bla</option>
-	</select>
-	<input type="submit">
-	<button type="submit"></button>
--->
 
 	<div class="topcontent">
 		<div class="wrapper">
